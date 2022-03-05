@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ingreso-egreso-app-ef920": {
+      "hosting": {
+        "ingresoEgresoApp": [
+          "ingreso-egreso-app-ef920"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ingreso-egreso-app-ef920"
+  }
+}
